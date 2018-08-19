@@ -19,14 +19,14 @@ permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: category_archives
+#  permalinks:
+#    category: /categories/:name/
+#    tag: /tags/:name/
 
 
 # Google Analytics
