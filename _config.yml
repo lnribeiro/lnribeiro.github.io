@@ -11,8 +11,6 @@ markdown: kramdown
 theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
-  - jekyll-archives
-  - jekyll-paginate
   - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title/
@@ -27,7 +25,6 @@ paginate: 5
 #  permalinks:
 #    category: /categories/:name/
 #    tag: /tags/:name/
-
 
 # Google Analytics
 google_analytics: UA-124242145-1
