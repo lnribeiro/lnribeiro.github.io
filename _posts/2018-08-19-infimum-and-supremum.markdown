@@ -2,7 +2,7 @@
 layout: post
 title:  "Supremum and infimum"
 date:   2018-08-19 13:13:01 -0300
-categories: math
+external-url: https://lnribeiro.github.io/2018/08/19/infimum-and-supremum/
 ---
 
 Sometimes when reading math books, like [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), I stumble upon the infimum ($$\inf$$) and supremum ($$\sup$$) operators. For example, let $$L(x,\lambda,\nu)$$ denote the Lagrangian associated with an optimization problem. The *Lagrange dual function* is defined as 
