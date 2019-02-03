@@ -27,7 +27,7 @@ Please visit my [Google Scholar profile](https://scholar.google.com.br/citations
 
 ### Professional service
 
-* Journal reviewer: IEEE [TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25), [TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26), [TASL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10376); IET [SP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4159607), [MAP](https://digital-library.theiet.org/content/journals/iet-map); [CSSP](https://www.springer.com/engineering/electronics/journal/34)
+* Journal reviewer: IEEE [TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25), [TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26), [TASL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10376), [TCAS2](https://ieee-cas.org/pubs/tcas2); IET [SP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4159607), [MAP](https://digital-library.theiet.org/content/journals/iet-map); [CSSP](https://www.springer.com/engineering/electronics/journal/34)
 * Conference/workshop reviewer: [WSA'19](https://www.wsa2019.eu/)
 
 ### Links
