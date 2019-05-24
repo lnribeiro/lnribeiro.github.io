@@ -26,4 +26,4 @@ I expect to defend my Ph.D. thesis by the end of 2019.
 
 ### Personal
 
-I also enjoy reading (sci-fi, history, fantasy, etc), practicing sports (mainly swimming and cycling), playing video and board games, cinema, traveling.
+I also enjoy reading (sci-fi, history, fantasy, etc), practicing sports (mainly swimming and cycling), playing video and board games, cinema, traveling. I maintain a curated list of websites related to maths, science, engineering, programming, sysadmin, productivity and lifestyle [here](https://github.com/lnribeiro/curated_bookmarks).
