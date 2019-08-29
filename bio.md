@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: About
+permalink: /about/
 ---
 
 <img src="/assets/lucas.jpg" width="310" height="225" />
@@ -29,3 +29,13 @@ I expect to defend my Ph.D. thesis by the end of 2019.
 ### Personal
 
 I enjoy reading (sci-fi, history, fantasy, etc), practicing sports (mainly swimming and cycling), playing video and board games, cinema, traveling. I maintain a curated list of websites related to maths, science, engineering, programming, sysadmin, productivity, and lifestyle [here](http://github.com/lnribeiro/curated_bookmarks).
+
+### Contact
+
+If you want to get in touch, please send an e-mail to lucasnogrib (( at )) gmail.com.
+
+You can also find me on 
+
+* [LinkedIn](https://www.linkedin.com/in/lucas-nogueira-ribeiro-009a0a169)
+* [Research Gate](https://www.researchgate.net/profile/Lucas_Ribeiro3)
+
