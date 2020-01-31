@@ -29,7 +29,7 @@ You can also find me on
 * [Research Gate](https://www.researchgate.net/profile/Lucas_Ribeiro3)
 * [Google Scholar](https://scholar.google.com.br/citations?user=STk6opQAAAAJ)
 
-### Thesis
+### Theses
 
 * Bachelor's thesis "Separação cega de fontes: métodos e aplicações" [(download)]({{ site.url }}/assets/pdf/monografia.pdf)
 * Master's thesis "Tensor models applied to atrial fibrillation analysis"  [(download)]({{ site.url }}/assets/pdf/rapport.pdf)
