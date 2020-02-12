@@ -14,12 +14,12 @@ You can find my CV [here](https://github.com/lnribeiro/cv/blob/master/cv.pdf). A
 
 ### Presentations
 
-* Introdução à esteganografia digital com Python ([slides](https://github.com/lnribeiro/setic2015/blob/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Esteganografia%20Digital%20com%20Python.pdf) and [Jupyter notebook](https://github.com/lnribeiro/setic2015/blob/master/esteganografia.ipynb)) -- SETIC'15, UFC, Fortaleza, Brazil
-* [Python crash course](https://github.com/lnribeiro/setic2015/blob/master/intropython.ipynb) -- SETIC'15, UFC, Fortaleza, Brazil
-* [Processamento tensorial de sinais aplicado às comunicações]({{ site.url }}/assets/pdf/encom15.pdf) -- ENCOM'15, UFCG, Campina Grande, Brazil
-* [Transceiver design for large-scale systems]({{ site.url }}/assets/pdf/tum19.pdf) -- [TUM-UFC'19 workshop](http://www.msv.ei.tum.de/workshop-tum-ufc/), Munich, Germany
-* [Low-rank tensor MMSE equalization]({{ site.url }}/assets/pdf/iswcs19.pdf) -- ISWCS'19, Oulu, Finland
 * [Doctoral thesis defense slides]({{ site.url }}/assets/pdf/defesa.pdf)
+* [Low-rank tensor MMSE equalization]({{ site.url }}/assets/pdf/iswcs19.pdf) -- ISWCS'19, Oulu, Finland
+* [Transceiver design for large-scale systems]({{ site.url }}/assets/pdf/tum19.pdf) -- [TUM-UFC'19 workshop](http://www.msv.ei.tum.de/workshop-tum-ufc/), Munich, Germany
+* [Processamento tensorial de sinais aplicado às comunicações]({{ site.url }}/assets/pdf/encom15.pdf) -- ENCOM'15, UFCG, Campina Grande, Brazil
+* [Python crash course](https://github.com/lnribeiro/setic2015/blob/master/intropython.ipynb) -- SETIC'15, UFC, Fortaleza, Brazil
+* Introdução à esteganografia digital com Python ([slides](https://github.com/lnribeiro/setic2015/blob/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Esteganografia%20Digital%20com%20Python.pdf) and [Jupyter notebook](https://github.com/lnribeiro/setic2015/blob/master/esteganografia.ipynb)) -- SETIC'15, UFC, Fortaleza, Brazil
 
 ### Profiles
 
@@ -31,8 +31,7 @@ You can also find me on
 
 ### Theses
 
-* Bachelor's thesis "Separação cega de fontes: métodos e aplicações" [(download)]({{ site.url }}/assets/pdf/monografia.pdf)
-* Master's thesis "Tensor models applied to atrial fibrillation analysis"  [(download)]({{ site.url }}/assets/pdf/rapport.pdf)
-* Mestrado's thesis "On supervised multilinear filtering: applications to system identification and antenna beamforming"  [(download)](http://www.repositorio.ufc.br/bitstream/riufc/16516/1/2016_dis_lnribeiro.pdf)
 * Doctoral thesis "Signal processing methods for large-scale multi-antenna systems" [(download)](http://repositorio.ufc.br/bitstream/riufc/47501/3/2019_tese_lnribeiro.pdf)
-
+* Mestrado's thesis "On supervised multilinear filtering: applications to system identification and antenna beamforming"  [(download)](http://www.repositorio.ufc.br/bitstream/riufc/16516/1/2016_dis_lnribeiro.pdf)
+* Master's thesis "Tensor models applied to atrial fibrillation analysis"  [(download)]({{ site.url }}/assets/pdf/rapport.pdf)
+* Bachelor's thesis "Separação cega de fontes: métodos e aplicações" [(download)]({{ site.url }}/assets/pdf/monografia.pdf)
