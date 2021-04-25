@@ -31,4 +31,4 @@ end
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # kramdown patch
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
