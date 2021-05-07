@@ -27,7 +27,7 @@ permalink: /publications/
 
 * D. M. V. Melo, L. T. N. Landau, *L. N. Ribeiro*, M. Haardt, "Time-Instance Zero-Crossing Precoding with Quality-of-Service Constraints", under revision
 
-* *L. N. Ribeiro*, S. Schwarz, M. Haardt, "Low-Complexity Zero-Forcing Precoding for XL-MIMO Transmissions," under revision [(arXiv)](https://arxiv.org/abs/2103.00971)
+* *L. N. Ribeiro*, S. Schwarz, M. Haardt, "Low-Complexity Zero-Forcing Precoding for XL-MIMO Transmissions," accepted at EUSIPCO'21 [(arXiv)](https://arxiv.org/abs/2103.00971)
 
 * *L. N. Ribeiro*, S. Schwarz, A. L. F. de Almeida, M. Haardt, "Low-complexity massive MIMO tensor precoding," to appear at 2020 Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, California, USA [(arXiv)](https://arxiv.org/abs/2009.09729)
 
