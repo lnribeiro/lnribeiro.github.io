@@ -7,8 +7,4 @@ title: "About"
   <figcaption>Estatua de Iracema, Fortaleza</figcaption>
 </figure>
 
-[LinkedIn]({{< param "linkedin_url" >}})
-
-[Google Scholar]({{< param "scholar_url" >}})
-
-[Email](mailto:{{< param "email" >}})
+Hi, you can find me on [LinkedIn]({{< param "linkedin_url" >}}). My academic publications are listed on [Google Scholar]({{< param "scholar_url" >}}).
