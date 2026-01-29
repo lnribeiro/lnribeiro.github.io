@@ -1,3 +1,8 @@
 # lnribeiro.github.io
 
-This is the Jekyll template for [my personal website](https://lnribeiro.github.io/). It's based on the standard [Minima theme](https://github.com/jekyll/minima) with a few minor modifications.
+Personal website built with Hugo and deployed to GitHub Pages via Actions.
+
+## Development
+
+1. Install Hugo (extended).
+2. Run `hugo server` from the repository root.

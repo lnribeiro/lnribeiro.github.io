@@ -1,0 +1,29 @@
+baseURL = "https://lnribeiro.github.io/"
+languageCode = "en-us"
+title = "Lucas N. Ribeiro"
+enableRobotsTXT = true
+paginate = 6
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[params]
+  location = "Fortaleza, Brazil"
+  email = "lucasnogrib@gmail.com"
+  scholar_url = "https://scholar.google.com.br/citations?user=STk6opQAAAAJ"
+  linkedin_url = "https://www.linkedin.com/in/lucas-nogueira-ribeiro-009a0a169"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

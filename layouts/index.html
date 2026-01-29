@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="section-head">
+  <h1>Blog</h1>
+  <p class="section-intro">Here I document my learning notes, comments, news, et cetera.</p>
+</section>
+<section class="post-list">
+  {{ range where .Site.RegularPages "Section" "blog" }}
+    <article class="post-card">
+      <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</div>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      <a class="post-link" href="{{ .RelPermalink }}">Read more →</a>
+    </article>
+  {{ end }}
+</section>
+{{ end }}

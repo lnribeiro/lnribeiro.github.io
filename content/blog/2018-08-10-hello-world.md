@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  "Hello World"
-date:   2018-08-10 20:03:10 -0300
+title: "Hello World"
+date: 2018-08-10T20:03:10-03:00
 ---
 
 We all know that in order to get better at something, one needs practice. That's why I am creating this blog, I would like to improve the ability to express ideas and thoughts by writing. Also, sharing ideas online sounds exciting!

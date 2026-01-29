@@ -1,9 +1,8 @@
 ---
-layout: post
-title:  "Crawling an institutional repository with Scrapy"
-date:   2019-06-14 15:03:10 -0300
-excerpt: How to program a bot to extract data from a university institutional repository.
-tags: scrapy scraping crawling data-science brazil science
+title: "Crawling an institutional repository with Scrapy"
+date: 2019-06-14T15:03:10-03:00
+summary: "How to program a bot to extract data from a university institutional repository."
+tags: ["scrapy", "scraping", "crawling", "data-science", "brazil", "science"]
 ---
 
 Brazilian society has been discussing whether what we produce in public universities is useful or not. That's a long debate (some context can be found [here](https://g1.globo.com/educacao/noticia/2019/05/15/entenda-o-corte-de-verba-das-universidades-federais-e-saiba-como-sao-os-orcamentos-das-10-maiores.ghtml) and [here](https://www.brasildefato.com.br/2019/05/14/confusao-em-dados-sobre-corte-nas-universidades-federais-e-proposital-diz-professor/)). I've been working on a public university for some time and I have a solid understanding of the benefits that science brings to society. But what exactly do we output? In which subjects do we excel? Do the research projects conducted at my alma mater, the [Universidade Federal do Ceará](http://www.ufc.br) (UFC), for example, match our local potential and needs? Data can help us to answer these questions.
