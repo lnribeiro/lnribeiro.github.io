@@ -23,6 +23,7 @@ enableRobotsTXT = true
   location = "Fortaleza, Brazil"
   scholar_url = "https://scholar.google.com.br/citations?user=STk6opQAAAAJ"
   linkedin_url = "https://www.linkedin.com/in/lucas-nogueira-ribeiro-009a0a169"
+  tagline = "Lucas N Ribeiro's blog documenting my learning notes, comments, news, and more."
 
 [markup]
   [markup.goldmark]
