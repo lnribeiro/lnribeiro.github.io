@@ -52,7 +52,8 @@ body {
   gap: 4px;
 }
 
-.brand-title {
+.brand-title,
+.brand-title:visited {
   font-family: "Fraunces", serif;
   font-size: 24px;
   letter-spacing: 0.5px;
@@ -67,7 +68,8 @@ body {
   flex-wrap: wrap;
 }
 
-.nav-link {
+.nav-link,
+.nav-link:visited {
   text-decoration: none;
   font-weight: 500;
   color: var(--ink);
