@@ -19,7 +19,7 @@
 
 a,
 a:visited {
-  color: var(--accent);
+  color: var(--accent-dark);
 }
 
 body {
