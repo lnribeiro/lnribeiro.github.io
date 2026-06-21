@@ -17,6 +17,11 @@
   box-sizing: border-box;
 }
 
+a,
+a:visited {
+  color: var(--accent);
+}
+
 body {
   margin: 0;
   font-family: "Work Sans", "Segoe UI", sans-serif;
